@@ -49,7 +49,7 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/face-recognition-event.git
+    git clone https://github.com/abdelilahnossair/event-face-recognition.git
     cd face-recognition-event
     ```
 
